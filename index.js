@@ -1,6 +1,4 @@
-/**
- * @format
- */
+
 
 import {AppRegistry} from 'react-native';
 import App from './App';
@@ -9,4 +7,4 @@ import Bag from './Bag';
 import WishList from './WishList';
 import swiper from './swiper';
 
-AppRegistry.registerComponent('ForeverApp', () => WishList);
+AppRegistry.registerComponent('ForeverApp', () => Bag);
